@@ -1,0 +1,13 @@
+E:\local save vs\ElyasWajebForms\bin\Debug\ElyasWajebForms.exe.config
+E:\local save vs\ElyasWajebForms\bin\Debug\ElyasWajebForms.exe
+E:\local save vs\ElyasWajebForms\bin\Debug\ElyasWajebForms.pdb
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.csproj.AssemblyReference.cache
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.Form1.resources
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.Properties.Resources.resources
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.csproj.GenerateResource.cache
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.csproj.CoreCompileInputs.cache
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.exe
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.pdb
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.AddStudent.resources
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.CalculateGrade.resources
+E:\local save vs\ElyasWajebForms\obj\Debug\ElyasWajebForms.DisplayStudent.resources

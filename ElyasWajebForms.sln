@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElyasWajebForms", "ElyasWajebForms.csproj", "{475783AF-B2B9-4ED0-9907-E929B615A0AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475783AF-B2B9-4ED0-9907-E929B615A0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475783AF-B2B9-4ED0-9907-E929B615A0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475783AF-B2B9-4ED0-9907-E929B615A0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475783AF-B2B9-4ED0-9907-E929B615A0AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E88B5B37-8397-4577-9B69-8861CF1F047A}
+	EndGlobalSection
+EndGlobal
